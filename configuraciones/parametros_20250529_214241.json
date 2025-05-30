@@ -1,0 +1,43 @@
+{
+  "dimensiones": {
+    "largo": 0.45,
+    "ancho": 0.25,
+    "altura": 0.3
+  },
+  "propiedades_termicas": {
+    "absorptividad": 0.9,
+    "angulo_incidencia": 30,
+    "material_caja": "aluminio"
+  },
+  "propiedades_agua": {
+    "cp_agua": 4186,
+    "calor_latente_vaporizacion": 2260000.0,
+    "temp_inicial": 293,
+    "temp_ebullicion": 368
+  },
+  "conductividades_termicas": {
+    "acero": 50,
+    "aluminio": 205,
+    "pvc": 0.19
+  },
+  "condiciones_operacion": {
+    "horas_radiacion_util": 6,
+    "masa_agua": 2,
+    "hemisferio": "norte",
+    "ubicacion_latitud": 40.0
+  },
+  "parametros_simulacion": {
+    "radiacion_base": 500,
+    "amplitud_variacion": 350,
+    "variabilidad_diaria": 100,
+    "factor_eficiencia_alta": 0.8,
+    "factor_eficiencia_media": 0.7,
+    "factor_eficiencia_baja": 0.55,
+    "factor_eficiencia_minima": 0.35
+  },
+  "opciones_visualizacion": {
+    "dpi_graficas": 300,
+    "mostrar_graficas": false,
+    "tema_graficas": "seaborn-v0_8-darkgrid"
+  }
+}
