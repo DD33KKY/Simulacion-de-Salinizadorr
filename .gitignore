@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de resultados y datos generados
+resultados/simulacion_*.png
+configuraciones/*.json
+datos_desalinizador_*.csv
+datos_simulacion.js
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db 
