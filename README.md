@@ -474,4 +474,4 @@ Para consultas o contribuciones:
 
 ---
 
-Desarrollado como parte del proyecto de modelado termodinámico de desalinizadores solares (2024). 
+Desarrollado como parte del proyecto de modelado termodinámico de desalinizadores solares (2025). 
