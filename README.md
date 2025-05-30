@@ -232,7 +232,7 @@ Este proyecto está licenciado bajo [MIT License](LICENSE).
 Para consultas o contribuciones:
 - Email: carlos06221@gmail.com
 - Autor: Carlos Guillermo Porras
-- GitHub: [usuario/simulador-desalinizador-solar](https://github.com/usuario/simulador-desalinizador-solar)
+- GitHub: [[usuario/simulador-desalinizador-solar](https://github.com/usuario/simulador-desalinizador-solar)](https://github.com/DD33KKY/Simulacion-de-Salinizadorr?tab=readme-ov-file)
 
 ---
 
