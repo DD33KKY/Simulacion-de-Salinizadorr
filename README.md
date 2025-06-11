@@ -468,8 +468,9 @@ Este proyecto está licenciado bajo [MIT License](LICENSE).
 ## 📞 Contacto
 
 Para consultas o contribuciones:
+
 - Email: carlos06221@gmail.com
-- Autor: Carlos Guillermo Porras
+- Autores: Carlos Guillermo Porras , JuanEstaban Mariño, Guillermo Lopez, Sharon Agudelo
 - GitHub: https://github.com/DD33KKY/Simulacion-de-Salinizadorr?tab=readme-ov-file
 
 ---
